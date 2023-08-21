@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+h2 {
+    text-align: center;
+    color: gold;
+    margin-top: 30px;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid blue;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+label {
+    font-weight: bold;
+    color: blue;
+}
+
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: gold;
+    color: #333;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+input[type="submit"]:hover {
+    background-color: #ffd700;
+}
+
+/* Centrer l'alerte d'inscription réussie */
+
+.alert {
+    text-align: center;
+    color: green;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+
+
+
+
+

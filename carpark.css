@@ -1,0 +1,177 @@
+.bodyF{
+background-color: rgb(255, 255, 255);
+}
+.logomarqueF{
+position:right;
+float: right;
+height: 30%;
+width: 30%;}
+
+.modeltitleF{
+    color: black;
+    text-align: left;
+    font-size: 60px;
+
+}
+.divrightF{
+    position: left;
+    height:18%;
+    width:37%;
+    float: left;
+    
+
+}
+.imgModel{
+    width: 50%;
+    height: 50%;
+    display: block;
+  margin-left: 60%;
+  margin-right: 0%;
+}
+
+.mydiv{
+    height: 80%;
+    width: 80%;
+
+}
+.informationmedelF{
+    font-size: medium;
+    color: black;
+    text-align: left;
+    
+}
+.informationcardF {
+    display: inline-block;
+    /* Add other styles as needed */
+  }
+
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    
+    
+    
+
+  }
+  
+  .vitessiconF,
+  .seticonF {
+    margin-right: 10px;
+  }
+  
+  .card-content {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .vitessF,
+  .setnumberF {
+    margin-bottom: 5px;
+  }
+  
+  .vitessTitF,
+  .settitF {
+    font-size: 12px;
+    color: gray;
+  }
+  
+  .priceTitF {
+    font-size: 12px;
+    color: gray;
+    margin-bottom: 5px;
+  }
+  
+  .priceF {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .informationcardF {
+    flex: 1;
+  }
+  
+  .flex-container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+
+  }
+  .card {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 10px; /* Adjust the margin value as needed */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+  }
+  
+  .card img {
+    width: 50px; /* Adjust the width as needed */
+    height: auto;
+    margin-right: 10px; /* Adjust the margin as needed */
+  }
+  
+  .card-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .card h1 {
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .card p {
+    font-size: 16px;
+    color: gray;
+  }
+  .informationmedelF{
+    font-size:  34px;
+    width: 100%;
+    height: 100%;
+
+  }
+  .divTextF{
+padding-top: 20%;
+display:inline-block;
+border-color: #3b76ff;
+
+
+  }
+  .bookF{
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+border: white;
+background: linear-gradient(to right, #3b76ff, #f9faf9);;
+color: rgb(255, 255, 255);
+box-shadow: #435ee9;
+border-radius: 30px;
+opacity:inherit;
+width:300px;
+height: 50px;
+margin: 15px;
+display: inline-block;
+}
+.bookF:hover{
+    width:350px;
+    height: 60px;
+}
+.containerBookF{
+    text-align: center;
+  height: 100vh;
+}
+.informationcardF:hover{
+  box-shadow: #435ee9;
+  border-color: #435ee9;
+}
+
+
+  
+  
+  
